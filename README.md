@@ -22,16 +22,11 @@ The dataset combines information from multiple sources on population, GDP, and d
 
 ## Sample Dashboards
 
-* Child Mortality Dashboard
-  ![Child Mortality Dashboard](https://github.com/shripalshaha1/Data_Visualization_Project/assets/113332807/b14c98e6-2ff1-4cb8-b2c5-89d9592264a1)
+ * ![Child Mortality Dashboard](https://github.com/shripalshaha1/Data_Visualization_Project/assets/113332807/b14c98e6-2ff1-4cb8-b2c5-89d9592264a1)
   
-
-* Air Pollution Dashboard
-  ![Air Pollution Dashboard](https://github.com/shripalshaha1/Data_Visualization_Project/assets/113332807/c82ceb9b-808a-4172-8bb6-bb77b13e37d7)
+ * ![Air Pollution Dashboard](https://github.com/shripalshaha1/Data_Visualization_Project/assets/113332807/c82ceb9b-808a-4172-8bb6-bb77b13e37d7)
   
-
-* Lifestyle Choices Dashboard
-  ![Lifestyle choice dashboard](https://github.com/shripalshaha1/Data_Visualization_Project/assets/113332807/283033e6-2403-483e-96a6-f9b251dce805)
+ * ![Lifestyle choice dashboard](https://github.com/shripalshaha1/Data_Visualization_Project/assets/113332807/283033e6-2403-483e-96a6-f9b251dce805)
 
 
 The interactive Tableau dashboards visualize global and country-level insights on the leading causes of mortality over time. Various charts are used to show trends and relationships between different death risk factors.
